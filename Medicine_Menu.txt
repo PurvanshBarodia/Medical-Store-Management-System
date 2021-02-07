@@ -1,0 +1,11 @@
+***************************************************
+                  Medicine Menu
+***************************************************
+1.Add New Medicine
+	                                          
+2.Sale of Medicine and Billing
+
+3.Stock of Medicine
+		                             	                                           
+4.Main Menu
+		                                    

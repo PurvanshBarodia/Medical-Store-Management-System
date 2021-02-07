@@ -1,0 +1,13 @@
+***************************************************
+                  Supplier Menu
+***************************************************
+1.Add New Supplier
+	                                          
+2.Update Supplier
+
+3.Search Supplier
+		                             
+4.List of Existing Supplier
+	                                           
+5.Main Menu
+		                                    

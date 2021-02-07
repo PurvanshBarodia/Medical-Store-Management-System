@@ -1,0 +1,14 @@
+***************************************************
+       <<<Medical store Management System>>>
+***************************************************
+
+
+             "Welcome to Medical Store"
+
+
+             
+         Enter UserId and Password to Login.
+                   
+
+
+

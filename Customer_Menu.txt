@@ -1,0 +1,13 @@
+***************************************************
+                  Customer Menu
+***************************************************
+1.Add New Customer
+	                                          
+2.Update Customer
+
+3.Search Customer
+		                             
+4.List of Existing Customer
+	                                           
+5.Main Menu
+		                                    

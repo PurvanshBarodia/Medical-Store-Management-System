@@ -1,0 +1,11 @@
+***************************************************
+          Medical Store Menagment System 
+***************************************************
+              1.Supplier Info
+          
+              2.Customer Info
+
+              3.Medicine
+        
+              4.Bill 
+
